@@ -17,7 +17,20 @@ Tool-Integrated Reasoning via Bipartite Matching
 ## 📣 Latest News
 - **[Jan 15, 2026]**: 📄 Our paper is now available on **[arXiv]()** and **[Hugging Face]()** daily paper.
 - **[Jan 14, 2026]**: 🔥 We released all our **MatchTIR model checkpoints** and **datasets**. Checkout **[🤗 MatchTIR]()** here.
-- **[Jan 14, 2026]**: 🚀 Full codebase of **MatchTIR** released. 
+- **[Jan 14, 2026]**: 🚀 Full codebase of **MatchTIR** released.
+  
+## 📦 Dataset & Model Zoo
+
+| **Dataset**         | **Download**                                                 |
+| ----------------- | ------------------------------------------------------------ |
+| FTRL Training Data | [🤗 HuggingFace]() |
+
+| **Model**         | **Download**                                                 |
+| ----------------- | ------------------------------------------------------------ |
+| Qwen3-8B-MatchTIR-KM | [🤗 HuggingFace](https://huggingface.co/ChangleQu/Qwen3-8B-MatchTIR-KM) |
+| Qwen3-4B-MatchTIR-KM | [🤗 HuggingFace](https://huggingface.co/ChangleQu/Qwen3-4B-MatchTIR-KM) |
+| Qwen3-8B-MatchTIR-OT | [🤗 HuggingFace](https://huggingface.co/ChangleQu/Qwen3-8B-MatchTIR-OT) |
+| Qwen3-4B-MatchTIR-OT | [🤗 HuggingFace](https://huggingface.co/ChangleQu/Qwen3-4B-MatchTIR-OT) |
 
 ## 💡 Overview
 We propose **MatchTIR**, a framework that introduces fine-grained supervision via bipartite matching-based turn-level reward assignment and dual-level advantage estimation.
