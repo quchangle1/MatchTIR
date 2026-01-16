@@ -15,7 +15,7 @@ Tool-Integrated Reasoning via Bipartite Matching
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## 📣 Latest News
-- **[Jan 15, 2026]**: 📄 Our paper is now available on **[arXiv](https://arxiv.org/abs/2601.10712)** and **[Hugging Face](https://huggingface.co/papers/2601.10712)** daily paper.
+- **[Jan 15, 2026]**: 📄 Our paper is now available on **[arXiv](https://arxiv.org/abs/2601.10712)** and **[Hugging Face Daily Paper](https://huggingface.co/papers/2601.10712)**.
 - **[Jan 14, 2026]**: 🔥 We released all our **MatchTIR model checkpoints** and **datasets**. Checkout **[🤗 MatchTIR](https://huggingface.co/collections/ChangleQu/matchtir)** here.
 - **[Jan 14, 2026]**: 🚀 Full codebase of **MatchTIR** released.
   
